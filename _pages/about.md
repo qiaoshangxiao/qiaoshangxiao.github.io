@@ -24,6 +24,7 @@ Recent news
 ======
 
 ```bash
+* 02-19-2025: I joined UPC(Universitat Politècnica de Catalunya), GEMMA (Group of Environmental Engineering and Microbiology).
 * 07-10-2024: I published a paper in *Desalination and Water Treatment*.
 * 08-28-2023: I joined Xi'an University of Technology as a PhD student.
 * 09-01-2022: I started working at Xi’an Thermal Power Research Institute Co., Ltd.
