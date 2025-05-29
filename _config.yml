@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shangxiao Qiao"
 title_separator          : "-"
 name                     : &name "Shangxiao Qiao"
-description              : &description "PhD in ESE, Xi'an University of Technology"
+description              : &description "PhD in EnvE, Xi'an University of Technology"
 url                      : https://qiaoshangxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qiaoshangxiao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shangxiao Qiao (乔尚校)"
   avatar           : "profile.png"
-  bio              : "PhD in ESE, Xi'an University of Technology"
+  bio              : "PhD in EnvE, Xi'an University of Technology"
   location         : "Xi'an, Shaanxi"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
